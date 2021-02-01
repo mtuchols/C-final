@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1588302536 source:c:\users\mtuch\downloads\computer science ii project\main.cpp
+	<cassert>
+	<iosfwd>
+	<iostream>
+	<iomanip>
+	<limits>
+	<ctime>
+	<fstream>
+	<string>
+	<string.h>
+	<map>
+	<vector>
+	"Restaurant.h"
+	"linkedList.h"
+	"Meals.h"
+
+1588295067 c:\users\mtuch\downloads\computer science ii project\restaurant.h
+	<time.h>
+	<ctime>
+
+1588302536 c:\users\mtuch\downloads\computer science ii project\linkedlist.h
+	<fstream>
+
+1588295104 c:\users\mtuch\downloads\computer science ii project\meals.h
+
